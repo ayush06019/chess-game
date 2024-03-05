@@ -1,0 +1,141 @@
+#FenInDiv {
+	position: relative;
+	left: 360px;
+}
+
+#fenIn { 
+ width: 480px;
+ left: 60px;
+}
+
+#Board {
+	position: relative;
+	top: 20px;
+	left: 400px;
+	width: 480px;
+	height: 480px;
+	border-style: solid;
+	border-width: 7px;
+}
+h1{
+    color: antiquewhite;
+}
+
+
+#anna{
+    position: absolute;
+	left: 30px;
+	top: 12px;	
+    color: aliceblue;
+}
+#ThinkTimeChoice{
+    position: absolute;
+	left: 140px;
+	top: 12px;
+   	
+}
+#ciri{
+    position: absolute;
+	left: 1px;
+	top: 80px;
+    color: aliceblue;	
+}
+#roach{
+    position: absolute;
+	left: 160px;
+	top: 80px;	
+    color: aliceblue;
+}
+#olaf{
+    position: absolute;
+	left: 30px;
+	top: 250px;	
+}
+#elsa{
+    position: absolute;
+	left: 150px;
+	top: 250px;	
+}
+#EngineOutput {
+	position: absolute;
+	left: 980px;
+	top: 250px;	
+}
+.Square {
+	position: absolute;	
+	width: 60px;
+	height: 60px;
+}
+
+.Dark {
+	background-color:#461043;
+}
+
+.Light {
+	background-color:#dec3e9;
+}
+
+.SqSelected {
+	background-color:#b83ab8;
+}
+
+.rank1 { top: 420px; }
+.rank2 { top: 360px; }
+.rank3 { top: 300px; }
+.rank4 { top: 240px; }
+.rank5 { top: 180px; }
+.rank6 { top: 120px; }
+.rank7 { top: 60px; }
+.rank8 { top: 0px; }
+
+.file1 { left: 0px; }
+.file2 { left: 60px; }
+.file3 { left: 120px; }
+.file4 { left: 180px; }
+.file5 { left: 240px; }
+.file6 { left: 300px; }
+.file7 { left: 360px; }
+.file8 { left: 420px; }
+
+.Piece {
+	position: absolute;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
